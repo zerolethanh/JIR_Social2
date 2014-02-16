@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "998E60D718AE7A2600060685"
-               BuildableName = "JIR_Social2.app"
-               BlueprintName = "JIR_Social2"
-               ReferencedContainer = "container:JIR_Social2.xcodeproj">
+               BuildableName = "JIR_SocialTest.app"
+               BlueprintName = "JIR_SocialTest"
+               ReferencedContainer = "container:JIR_SocialTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "998E60F818AE7A2600060685"
-               BuildableName = "JIR_Social2Tests.xctest"
-               BlueprintName = "JIR_Social2Tests"
-               ReferencedContainer = "container:JIR_Social2.xcodeproj">
+               BuildableName = "JIR_SocialTestTests.xctest"
+               BlueprintName = "JIR_SocialTestTests"
+               ReferencedContainer = "container:JIR_SocialTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "998E60D718AE7A2600060685"
-            BuildableName = "JIR_Social2.app"
-            BlueprintName = "JIR_Social2"
-            ReferencedContainer = "container:JIR_Social2.xcodeproj">
+            BuildableName = "JIR_SocialTest.app"
+            BlueprintName = "JIR_SocialTest"
+            ReferencedContainer = "container:JIR_SocialTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "998E60D718AE7A2600060685"
-            BuildableName = "JIR_Social2.app"
-            BlueprintName = "JIR_Social2"
-            ReferencedContainer = "container:JIR_Social2.xcodeproj">
+            BuildableName = "JIR_SocialTest.app"
+            BlueprintName = "JIR_SocialTest"
+            ReferencedContainer = "container:JIR_SocialTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "998E60D718AE7A2600060685"
-            BuildableName = "JIR_Social2.app"
-            BlueprintName = "JIR_Social2"
-            ReferencedContainer = "container:JIR_Social2.xcodeproj">
+            BuildableName = "JIR_SocialTest.app"
+            BlueprintName = "JIR_SocialTest"
+            ReferencedContainer = "container:JIR_SocialTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
